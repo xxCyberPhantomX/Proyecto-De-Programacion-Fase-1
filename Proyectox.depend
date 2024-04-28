@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714095501 source:c:\users\samuel puñales\desktop\proyectofinal\proyectox\main.cpp
+	<iostream>
+	<cmath>
+	<conio.h>
+
